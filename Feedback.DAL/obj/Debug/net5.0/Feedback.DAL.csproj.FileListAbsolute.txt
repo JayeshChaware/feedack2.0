@@ -1,0 +1,12 @@
+D:\study\cSharp\feedback project\Feedback2.0\Feedback.DAL\bin\Debug\net5.0\Feedback.DAL.deps.json
+D:\study\cSharp\feedback project\Feedback2.0\Feedback.DAL\bin\Debug\net5.0\Feedback.DAL.dll
+D:\study\cSharp\feedback project\Feedback2.0\Feedback.DAL\bin\Debug\net5.0\ref\Feedback.DAL.dll
+D:\study\cSharp\feedback project\Feedback2.0\Feedback.DAL\bin\Debug\net5.0\Feedback.DAL.pdb
+D:\study\cSharp\feedback project\Feedback2.0\Feedback.DAL\obj\Debug\net5.0\Feedback.DAL.csproj.AssemblyReference.cache
+D:\study\cSharp\feedback project\Feedback2.0\Feedback.DAL\obj\Debug\net5.0\Feedback.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\cSharp\feedback project\Feedback2.0\Feedback.DAL\obj\Debug\net5.0\Feedback.DAL.AssemblyInfoInputs.cache
+D:\study\cSharp\feedback project\Feedback2.0\Feedback.DAL\obj\Debug\net5.0\Feedback.DAL.AssemblyInfo.cs
+D:\study\cSharp\feedback project\Feedback2.0\Feedback.DAL\obj\Debug\net5.0\Feedback.DAL.csproj.CoreCompileInputs.cache
+D:\study\cSharp\feedback project\Feedback2.0\Feedback.DAL\obj\Debug\net5.0\Feedback.DAL.dll
+D:\study\cSharp\feedback project\Feedback2.0\Feedback.DAL\obj\Debug\net5.0\ref\Feedback.DAL.dll
+D:\study\cSharp\feedback project\Feedback2.0\Feedback.DAL\obj\Debug\net5.0\Feedback.DAL.pdb

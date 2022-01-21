@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Feedback.DAL\Feedback.DAL.csproj" />
+    <ProjectReference Include="..\Feedback2.0\Feedback2.0.csproj" />
+  </ItemGroup>
+
+</Project>
